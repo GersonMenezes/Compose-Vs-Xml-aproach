@@ -14,7 +14,7 @@
         android:theme="@style/Theme.ComposeVsXml"
         tools:targetApi="31">
         <activity
-            android:name=".ui.XmlMoviesActivity"
+            android:name=".ui.ComposeMoviesActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
